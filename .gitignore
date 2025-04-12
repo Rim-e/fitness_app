@@ -1,0 +1,23 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Fichiers Virtualenv
+venv/
+env/
+
+# Fichiers spécifiques à Flask
+instance/
+.webassets-cache
+
+# Node Modules
+node_modules/
+
+# Build React
+build/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
